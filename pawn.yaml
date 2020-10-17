@@ -1,0 +1,7 @@
+site: ""
+user: roesanne26
+repo: async-a-controller
+entry: test.pwn
+output: test.amx
+runtime:
+  mode: y_testing
