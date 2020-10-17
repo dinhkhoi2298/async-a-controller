@@ -91,6 +91,6 @@ sampctl package run
 
 ## Credits
 
-- Ares: Original script 
+- Ares: Original script (https://github.com/AresVN/a_controller)
 
 - Me: Make async version
