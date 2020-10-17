@@ -46,7 +46,7 @@ Include in your code and begin using the library:
 ## Usage
 Function: `Task:async_controller_show`
 ```pawn
-#include <Async-A_Controller>
+#include <Async-A-Controller>
 
 CMD:dancing(playerid) {
 	task_yield(1);
